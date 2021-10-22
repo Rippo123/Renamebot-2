@@ -20,16 +20,12 @@
 
 ->**Demo Bots**
 
-➡️[BOT 1](https://t.me/rename1robot)    
-➡️[BOT 2](https://t.me/rename2robot)    
-➡️[BOT 3](https://t.me/rename3robot)    
-➡️[BOT 4](https://t.me/rename4robot)   
-➡️[BOT 5](https://t.me/rename5robot)
+➡️[BOT 1](https://t.me/IET_RenamerBot)   
 
 
 # Deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/No-OnE-Kn0wS-Me/FileRenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ietupdates/Renamebot-2)
 
 # Required Strings :-
 
